@@ -1,0 +1,47 @@
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\BookStore Management System BE\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\BookStore Management System BE\bin\Debug\net5.0\appsettings.json
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\BookStore Management System BE\bin\Debug\net5.0\BookStore Management System BE.exe
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\BookStore Management System BE\bin\Debug\net5.0\BookStore Management System BE.deps.json
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\BookStore Management System BE\bin\Debug\net5.0\BookStore Management System BE.runtimeconfig.json
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\BookStore Management System BE\bin\Debug\net5.0\BookStore Management System BE.runtimeconfig.dev.json
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\BookStore Management System BE\bin\Debug\net5.0\BookStore Management System BE.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\BookStore Management System BE\bin\Debug\net5.0\ref\BookStore Management System BE.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\BookStore Management System BE\bin\Debug\net5.0\BookStore Management System BE.pdb
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\BookStore Management System BE\bin\Debug\net5.0\CloudinaryDotNet.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\BookStore Management System BE\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\BookStore Management System BE\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\BookStore Management System BE\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\BookStore Management System BE\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\BookStore Management System BE\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\BookStore Management System BE\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\BookStore Management System BE\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\BookStore Management System BE\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\BookStore Management System BE\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\BookStore Management System BE\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\BookStore Management System BE\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\BookStore Management System BE\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\BookStore Management System BE\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\BookStore Management System BE\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\BookStore Management System BE\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\BookStore Management System BE\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\BookStore Management System BE\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\BookStore Management System BE\bin\Debug\net5.0\Common Layer.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\BookStore Management System BE\bin\Debug\net5.0\Repository Layer.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\BookStore Management System BE\bin\Debug\net5.0\Common Layer.pdb
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\BookStore Management System BE\bin\Debug\net5.0\Repository Layer.pdb
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\BookStore Management System BE\obj\Debug\net5.0\BookStore Management System BE.csproj.AssemblyReference.cache
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\BookStore Management System BE\obj\Debug\net5.0\BookStore Management System BE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\BookStore Management System BE\obj\Debug\net5.0\BookStore Management System BE.AssemblyInfoInputs.cache
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\BookStore Management System BE\obj\Debug\net5.0\BookStore Management System BE.AssemblyInfo.cs
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\BookStore Management System BE\obj\Debug\net5.0\BookStore Management System BE.csproj.CoreCompileInputs.cache
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\BookStore Management System BE\obj\Debug\net5.0\BookStore Management System BE.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\BookStore Management System BE\obj\Debug\net5.0\BookStore Management System BE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\BookStore Management System BE\obj\Debug\net5.0\staticwebassets\BookStore Management System BE.StaticWebAssets.Manifest.cache
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\BookStore Management System BE\obj\Debug\net5.0\staticwebassets\BookStore Management System BE.StaticWebAssets.xml
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\BookStore Management System BE\obj\Debug\net5.0\scopedcss\bundle\BookStore Management System BE.styles.css
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\BookStore Management System BE\obj\Debug\net5.0\BookStore Management System BE.RazorTargetAssemblyInfo.cache
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\BookStore Management System BE\obj\Debug\net5.0\BookStore Management System BE.csproj.CopyComplete
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\BookStore Management System BE\obj\Debug\net5.0\BookStore Management System BE.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\BookStore Management System BE\obj\Debug\net5.0\ref\BookStore Management System BE.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\BookStore Management System BE\obj\Debug\net5.0\BookStore Management System BE.pdb
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\BookStore Management System BE\obj\Debug\net5.0\BookStore Management System BE.genruntimeconfig.cache

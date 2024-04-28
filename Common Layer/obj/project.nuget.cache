@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QjKzis4pRrsDKpSqTc0ZKvaXoxSp/1kY8oaOF0xB0tWOt4DahVRKpKcVGbuofHlEAi33MV3rsEENHpzwMdAojA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\visha\\source\\repos\\YouTube Project\\Book Management System ( beginner )\\BookStore Management System BE\\Common Layer\\Common Layer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\visha\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\visha\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\visha\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

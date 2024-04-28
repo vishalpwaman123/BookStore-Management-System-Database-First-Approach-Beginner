@@ -1,0 +1,15 @@
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\Repository Layer\obj\Debug\net5.0\Repository Layer.csproj.AssemblyReference.cache
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\Repository Layer\obj\Debug\net5.0\Repository Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\Repository Layer\obj\Debug\net5.0\Repository Layer.AssemblyInfoInputs.cache
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\Repository Layer\obj\Debug\net5.0\Repository Layer.AssemblyInfo.cs
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\Repository Layer\obj\Debug\net5.0\Repository Layer.csproj.CoreCompileInputs.cache
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\Repository Layer\bin\Debug\net5.0\Repository Layer.deps.json
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\Repository Layer\bin\Debug\net5.0\Repository Layer.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\Repository Layer\bin\Debug\net5.0\ref\Repository Layer.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\Repository Layer\bin\Debug\net5.0\Repository Layer.pdb
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\Repository Layer\bin\Debug\net5.0\Common Layer.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\Repository Layer\bin\Debug\net5.0\Common Layer.pdb
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\Repository Layer\obj\Debug\net5.0\Repository Layer.csproj.CopyComplete
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\Repository Layer\obj\Debug\net5.0\Repository Layer.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\Repository Layer\obj\Debug\net5.0\ref\Repository Layer.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\Repository Layer\obj\Debug\net5.0\Repository Layer.pdb

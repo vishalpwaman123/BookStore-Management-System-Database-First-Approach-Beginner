@@ -1,0 +1,12 @@
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\Common Layer\bin\Debug\net5.0\Common Layer.deps.json
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\Common Layer\bin\Debug\net5.0\Common Layer.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\Common Layer\bin\Debug\net5.0\ref\Common Layer.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\Common Layer\bin\Debug\net5.0\Common Layer.pdb
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\Common Layer\obj\Debug\net5.0\Common Layer.csproj.AssemblyReference.cache
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\Common Layer\obj\Debug\net5.0\Common Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\Common Layer\obj\Debug\net5.0\Common Layer.AssemblyInfoInputs.cache
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\Common Layer\obj\Debug\net5.0\Common Layer.AssemblyInfo.cs
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\Common Layer\obj\Debug\net5.0\Common Layer.csproj.CoreCompileInputs.cache
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\Common Layer\obj\Debug\net5.0\Common Layer.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\Common Layer\obj\Debug\net5.0\ref\Common Layer.dll
+C:\Users\visha\source\repos\YouTube Project\Book Management System ( beginner )\BookStore Management System BE\Common Layer\obj\Debug\net5.0\Common Layer.pdb
